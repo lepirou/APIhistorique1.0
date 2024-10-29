@@ -1,0 +1,14 @@
+{
+    "name": "taf_ext",
+    "version": "1.0.0",
+    "main": "serveur.js",
+    "scripts": {
+        "start": "node serveur.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "espress": "^0.0.0",
+        "express": "^4.21.1",
+        "sqlite3": "^5.0.2"
+    }
+}
